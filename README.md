@@ -46,6 +46,7 @@ python3 --version
 
 Se o comando retornar a versão do Python, tudo está pronto! 🎉
 
+
 🖥️ Testando o Projeto no Google Colab 🚀
 
 Se você quer testar o projeto sem instalar nada, pode usar o Google Colab! Siga os passos:
@@ -55,6 +56,8 @@ Acesse o Google Colab: https://colab.research.google.com/
 Crie um novo notebook clicando em Novo Notebook.
 
 Copie e cole o código do projeto dentro das células do notebook.
+
+Ou se preferir acesse diretamente o mundo de Pythonia: https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK
 
 Execute o código clicando no botão ▶️ ao lado das células.
 
