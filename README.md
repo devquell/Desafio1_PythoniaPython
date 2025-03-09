@@ -1,4 +1,4 @@
-🌟 Bem-vindo a Pythonia! 🏰🐍
+#🌟 Bem-vindo a Pythonia! 🏰🐍
 
 📖 Sobre o Projeto
 
