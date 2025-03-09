@@ -5,13 +5,13 @@
   Era uma vez, um reino chamado Pythonia, onde todos os habitantes eram programadores. Neste mundo mágico, uma jovem chamada Luna embarca em uma jornada para aprender a linguagem dos computadores: Python! 🧙‍♂️✨
   Neste projeto, você poderá acompanhar os primeiros passos de Luna, explorando conceitos essenciais como:
   
-  📢 O comando print()
+  📢 O comando `print()`
   
   📦 Variáveis mágicas
   
-  ✂️ Manipulação de textos (strip, lstrip, rstrip)
+  ✂️ Manipulação de textos (`strip`, `lstrip`, `rstrip`)
   
-  📜 O Zen do Python (import this)
+  📜 O Zen do Python (`import this`)
   
   ➕➖✖️➗ Operadores aritméticos
   
@@ -22,7 +22,7 @@
 
   Se você ainda não tem o Python instalado, siga estes passos:
   
-  Acesse o site oficial: https://www.python.org/downloads/
+  Acesse o [site oficial](https://www.python.org/downloads/)
   
   Baixe a versão mais recente para o seu sistema operacional (Windows, macOS ou Linux).
   
@@ -32,17 +32,17 @@
   
   No macOS e Linux, o Python pode já estar instalado! Teste no terminal com:
   
-  python --version
+  `python --version`
   
   Caso esteja usando Windows e dejeja verificar a versão do Python siga esses passos:
   
   Abra o Prompt de Comando e digite o comando abaixo
   
-  python --version
+  `python --version`
   
   ou
   
-  python3 --version
+  `python3 --version`
   
   Se o comando retornar a versão do Python, tudo está pronto! 🎉
 
@@ -51,13 +51,13 @@
 
   Se você quer testar o projeto sem instalar nada, pode usar o Google Colab! Siga os passos:
   
-  Acesse o Google Colab: https://colab.research.google.com/
+  Acesse o [Google Colab](https://colab.research.google.com/)
   
   Crie um novo notebook clicando em Novo Notebook.
   
   Copie e cole o código do projeto dentro das células do notebook.
   
-  Ou se preferir acesse diretamente o mundo de Pythonia: https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK
+  Ou se preferir acesse diretamente o [Mundo de Pythonia](https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK)
   
   Execute o código clicando no botão ▶️ ao lado das células.
   
