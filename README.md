@@ -63,6 +63,8 @@
   
   Pronto! Agora você pode explorar o mundo de Pythonia diretamente do seu navegador! 🌍✨
 
+### Referência usada para esse projeto 
 
+Livro: Curso Intensivo de Python: Uma introdução prática e baseada em projetos à programação
 
 
