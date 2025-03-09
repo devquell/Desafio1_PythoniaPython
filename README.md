@@ -67,4 +67,9 @@
 
 Livro: Curso Intensivo de Python: Uma introdução prática e baseada em projetos à programação
 
+### Desenvolvido por:
+  Eduardo Soares Alencar 
+  
+  Raquel de Almeida Medeiros
+
 
