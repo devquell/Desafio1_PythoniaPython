@@ -14,6 +14,19 @@
   📜 O Zen do Python (`import this`)
   
   ➕➖✖️➗ Operadores aritméticos
+
+  🎲 Tipos de Dados (`int`, `float`, `string`, `booleano - bool`)
+
+  ❌ Nome das Variáveis e Palavras Reservadas (`print`, `if`, `while`)
+
+  ➕🟰 Operadores de Atribuição (`+= -=`)
+
+  ◾◽ Operadores Aritméticos Relacionais (`>` `==` `!=` `<=`)
+
+  ♦️ Operadores Lógicos (`and` `or` `not`)
+
+  ℹ️ Estruturas condicionais (`if` `else` `elif`)
+
   
   Se você é um aprendiz de feiticeiro da programação, este projeto é perfeito para você! 🚀
 
@@ -46,6 +59,8 @@
   
   Se o comando retornar a versão do Python, tudo está pronto! 🎉
 
+  
+
 
 ### 🖥️ Testando o Projeto no Google Colab 🚀
 
@@ -57,7 +72,11 @@
   
   Copie e cole o código do projeto dentro das células do notebook.
   
-  Ou se preferir acesse diretamente o [Mundo de Pythonia](https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK)
+  Ou se preferir acesse diretamente o 
+  
+  [Mundo de Pythonia 1](https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK)
+  
+  [Mundo de Pythonia 2](https://colab.research.google.com/drive/1-mQPIDc31FoP3ofBYCdtT5iOE5puS4NB#scrollTo=uKvN-99pSBIa)
   
   Execute o código clicando no botão ▶️ ao lado das células.
   
