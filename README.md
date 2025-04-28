@@ -25,7 +25,9 @@
 
   ♦️ Operadores Lógicos (`and` `or` `not`)
 
-  ℹ️ Estruturas condicionais (`if` `else` `elif`)
+  ℹ️ Estruturas Condicionais (`if` `else` `elif`)
+
+  🔁 Estruturas de Repetição (`while` `for`)
 
   
   Se você é um aprendiz de feiticeiro da programação, este projeto é perfeito para você! 🚀
@@ -77,6 +79,8 @@
   [Mundo de Pythonia 1](https://colab.research.google.com/drive/1G6an8TZK_wDTWrh5YWkg5jsA0Xi3WoJ6?usp=sharing#scrollTo=IZPVAFEeMFdK)
   
   [Mundo de Pythonia 2](https://colab.research.google.com/drive/1-mQPIDc31FoP3ofBYCdtT5iOE5puS4NB#scrollTo=uKvN-99pSBIa)
+
+  [Mundo de Pythonia 3](https://colab.research.google.com/drive/1WplrhNaSDLW2DtfnzL5viVTT20d7SQah?usp=sharing)
   
   Execute o código clicando no botão ▶️ ao lado das células.
   
