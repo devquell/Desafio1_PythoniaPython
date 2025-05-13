@@ -101,7 +101,9 @@ Livro: Curso Intensivo de Python: Uma introdução prática e baseada em projeto
 
 ### Para:
   Centro Universitário do Distrito Federal - UDF
+  
   Programação de Computadores
+  
   Profª Kadidja Valeria
 
 
