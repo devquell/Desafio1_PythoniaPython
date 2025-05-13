@@ -99,4 +99,9 @@ Livro: Curso Intensivo de Python: Uma introdução prática e baseada em projeto
   
   Raquel de Almeida Medeiros
 
+### Para:
+  Centro Universitário do Distrito Federal - UDF
+  Programação de Computadores
+  Profª Kadidja Valeria
+
 
