@@ -44,6 +44,7 @@ Era uma vez, um reino chamado Pythonia, onde todos os habitantes eram programado
 
   Se você é um aprendiz de feiticeiro da programação, este projeto é perfeito para você! 🚀
 
+---
 
 ### 🔧 Como Instalar o Python 🐍
 
