@@ -148,4 +148,14 @@ Acesse diretamente no Colab!
 
 --- 
 
+### 📔 **Referência**  
+**Livro:**  
+[**Curso Intensivo de Python**: Uma introdução prática e baseada em projetos à programação]  
+**Autor(es):** Eric Matthes  
+**Editora:** Novatec  
+**Ano de publicação:** 2019
+
+
+---
+
 ✨ **Dica:** Use a hashtag **#Pythonia** nas redes sociais para compartilhar o que aprendeu!  
