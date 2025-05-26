@@ -4,10 +4,10 @@
 
 ---
 
-## ✨ **O Valor do Projeto**  
+## ✨ **O Valor do projeto**  
 **Problema:** Ensinar programação para crianças e iniciantes pode ser desafiador devido à abstração dos conceitos.  
 **Solução:** Transformamos fundamentos de Python em uma narrativa interativa, onde cada conceito é parte de uma aventura no reino de Pythonia.  
-**Conexão com a Disciplina:** Este projeto aplica todos os tópicos básicos de Programação de Computadores (variáveis, operadores, estruturas de controle) em um contexto lúdico e prático.  
+**Conexão com a disciplina:** Este projeto aplica todos os tópicos básicos de Programação de Computadores (variáveis, operadores, estruturas de controle) em um contexto lúdico e prático.  
 
 ---
 
@@ -25,21 +25,21 @@ Era uma vez, um reino chamado Pythonia, onde todos os habitantes eram programado
   
   ➕➖✖️➗ Operadores aritméticos
 
-  🎲 Tipos de Dados (`int`, `float`, `string`, `booleano - bool`)
+  🎲 Tipos de dados (`int`, `float`, `string`, `booleano - bool`)
 
-  ❌ Nome das Variáveis e Palavras Reservadas (`print`, `if`, `while`)
+  ❌ Nome das variáveis e palavras reservadas (`print`, `if`, `while`)
 
-  ➕🟰 Operadores de Atribuição (`+= -=`)
+  ➕🟰 Operadores de atribuição (`+= -=`)
 
-  ◾◽ Operadores Aritméticos Relacionais (`>` `==` `!=` `<=`)
+  ◾◽ Operadores aritméticos relacionais (`>` `==` `!=` `<=`)
 
-  ♦️ Operadores Lógicos (`and` `or` `not`)
+  ♦️ Operadores lógicos (`and` `or` `not`)
 
-  ℹ️ Estruturas Condicionais (`if` `else` `elif`)
+  ℹ️ Estruturas condicionais (`if` `else` `elif`)
 
-  🔁 Estruturas de Repetição (`while` `for`)
+  🔁 Estruturas de repetição (`while` `for`)
 
-  ⛩️ Vetores e Matrizes (`[0][1]`)
+  ⛩️ Vetores e matrizes (`[0][1]`)
 
 
   Se você é um aprendiz de feiticeiro da programação, este projeto é perfeito para você! 🚀
