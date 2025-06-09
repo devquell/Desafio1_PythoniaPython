@@ -148,6 +148,12 @@ Acesse diretamente no Colab!
 
 --- 
 
+### 📢 Projeto Público para Uso Educacional
+
+O projeto é **público** e está disponível para uso gratuito por qualquer instituição.  
+
+---
+
 ### 📔 **Referência**  
 **Livro:**  
 [**Curso Intensivo de Python**: Uma introdução prática e baseada em projetos à programação]  
